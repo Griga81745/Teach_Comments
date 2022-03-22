@@ -1,0 +1,11 @@
+body{
+    background-color: #181a1b;
+    background-image: url("https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fsteamcdn-a.akamaihd.net%2Fsteamcommunity%2Fpublic%2Fimages%2Fitems%2F566160%2F57f049a2986d7bfd3d43a6ba7b755ecde6218518.jpg&f=1&nofb=1");
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
+
+.comment-container{
+    width: 49%;
+    margin: 0 auto;
+}
